@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kaio 👋 
 ##
-- 🏆 Em busca de ser um Desenvolvedor Front-end.
+- 🏆 Em busca de ser um Desenvolvedor.
 - 🛠 No momento estou estudando HTML, CSS e JS.
 ##
 <div style="display: inline_block"><br>
