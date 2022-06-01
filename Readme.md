@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kaio 👋 
 ##
 - 🏆 Em busca de ser um Desenvolvedor.
-- 🛠 No momento estou estudando HTML, CSS e JS.
+- 🛠 Estudo HTML, CSS e JS, em breve vou começar frameworks como NODE.JS e REACT.JS.
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
