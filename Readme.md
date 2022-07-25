@@ -4,8 +4,8 @@
 ##
 <div align="center">
   <a href="https://github.com/kaiofsca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiofsca&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofsca&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaiofsca&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiofsca&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,7 +16,8 @@
   <img align="center" alt="Kaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Kaio-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="right" alt="Kaio-pic" height="150" style="border-radius:50px;"https://user-images.githubusercontent.com/88200985/180502256-a38c6999-90f3-4ae3-8fd9-26ad802e1255.png">
+  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1000114339283480649/1000114449899864104/a_11zon.png?width=427&height=427">
+</div>
 </div>
 
 ##
