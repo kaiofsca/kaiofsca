@@ -23,6 +23,6 @@
 ##
 
 <div>
-    <a href="https://instagram.com/kaiofsca" target="_blank"> <img height="50" width="50" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" target="_blank"> </a>
+    <a href="https://instagram.com/dev_kaiof" target="_blank"> <img height="50" width="50" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" target="_blank"> </a>
     <a href="https://www.linkedin.com/in/kaio-fonseca-8b8252221/" target="_blank"> <img src="https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor" target="_blank"></a>
 </div>
