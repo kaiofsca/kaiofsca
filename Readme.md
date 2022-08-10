@@ -1,7 +1,12 @@
-### Opaa! Eu sou o Kaio Fonseca!!
+### Opaa! Eu sou o Kaio Fonseca!! 
 ##
-- 🏆 Em busca de ser um Desenvolvedor.
-##
+<div align="center">
+   🏆 Desenvolvedor Front-end
+
+  ![giphy](https://user-images.githubusercontent.com/88200985/183935126-591f410a-6c3e-4b3c-abab-445e6e47da31.gif)
+  
+</div>
+
 <div align="center">
   <a href="https://github.com/kaiofsca">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaiofsca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
