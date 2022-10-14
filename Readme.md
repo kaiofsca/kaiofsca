@@ -1,4 +1,4 @@
-### <h1 align="center"> *Kaio Fonseca* 🤖🤙 - Desenvolvedor Front-end 🏆</h1>
+### <h1 align="center"> *Kaio Fonseca* 🦾🤖 - Desenvolvedor Front-end 🏆</h1>
 
 <div>
    <div align="center">
@@ -11,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaiofsca&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
 </div>
 
-## Habilidades e Tecnologias:
+## 🔧 Habilidades e Tecnologias:
 
 <div style="display: inline_block" align=""><br>
   <img align="center" alt="Kaio-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +28,7 @@
 </div>
 </div>
 
-## Redes Sociais:
+## 📷 Redes Sociais:
 
 <div align="">
     <a href="https://www.instagram.com/dev.kaiof/" target="_blank"> <img height="50" width="50" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" target="_blank"> </a>
