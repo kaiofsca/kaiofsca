@@ -14,6 +14,7 @@
 
 - 👨🏽‍🌾 Atualmente estou aprendendo React, NextJS e TypeScript.
 - 📫 Meu email: mkaiofonseca@gmail.com
+- 🤖 Meu Portfólio: [Portfólio](https://portfolio-blond-theta-95.vercel.app/)
 
 ### 👨🏽‍💻 Tecnologias:
 
