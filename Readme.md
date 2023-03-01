@@ -12,7 +12,6 @@
   </em>
 </p>
 
-- 👨🏽‍🌾 Atualmente estou aprendendo React e TypeScript.
 - 📫 Meu email: mkaiofonseca@gmail.com
 - 🤖 Meu Portfólio: [Portfólio](https://portfolio-blond-theta-95.vercel.app/)
 
@@ -22,7 +21,7 @@ Algumas das tecnologias e ferramentas que utilizo:
 
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,typescript,styledcomponents,nodejs,firebase,sass,redux,next" />
+       <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,typescript,styledcomponents,nodejs,firebase,sass" />
      </a>
    </p>
    
