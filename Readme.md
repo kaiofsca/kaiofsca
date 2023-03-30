@@ -1,18 +1,13 @@
-<h1 align="center"> Bem vindo(a) ao meu perfil! 🦾🤖 </h1>
-
-<p align='center'>
-  Desenvolvedor Front-End 👑
-</p>
 
 ### ✌🏽 Sobre mim:
 
 <p>
-  <em>
-    Tenho 19 anos, sou de Rio de Janeiro mas moro em Brasília e atualmente estou construindo conhecimentos sólidos em Front-End para em um futuro breve entrar no mercado.
-  </em>
+<em>
+Tenho 19 anos, sou de Rio de Janeiro mas moro em Brasília e atualmente estou fazendo estágio no IPEDF (Instituto de Pesquisa e Estatística do Distrito Federal) como Desenvolvedor Full-stack.
+</em>
 </p>
 
-- 📫 Meu email: mkaiofonseca@gmail.com
+- 📫 Meu email: [mkaiofonseca@gmail.com](mailto:mkaiofonseca@gmail.com)
 - 🤖 Meu Portfólio: [Portfólio](https://portfolio-blond-theta-95.vercel.app/)
 
 ### 👨🏽‍💻 Tecnologias:
@@ -21,7 +16,7 @@ Algumas das tecnologias e ferramentas que utilizo:
 
    <p align="center">
      <a href="https://skillicons.dev">
-       <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,typescript,styledcomponents,nodejs,firebase,sass" />
+       <img src="https://skillicons.dev/icons?i=git,html,css,javascript,typescript,react,python,django,flask" />
      </a>
    </p>
    
