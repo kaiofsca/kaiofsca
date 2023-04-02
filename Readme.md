@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/88200985/183935126-591f410a-6c3e-4b3c-abab-445e6e47da31.gif" />
 </div>
 
-### ✌🏽 Sobre mim:
+## ✌🏽 Sobre mim:
 
 <p>
 <em>
@@ -13,7 +13,13 @@ Tenho 19 anos, sou de Rio de Janeiro mas moro em Brasília e atualmente estou fa
 - 📫 Meu email: [mkaiofonseca@gmail.com](mailto:mkaiofonseca@gmail.com)
 - 🤖 Meu Portfólio: [Portfólio](https://portfolio-blond-theta-95.vercel.app/)
 
-### 👨🏽‍💻 Tecnologias:
+## 👤 Meu objetivo para esse ano:
+
+- Desenvolver minhas habilidadas técnicas tanto no front-end como no back-end.
+- Participar de projetos importantes.
+- Melhorar e desenvolver minhas softskills.
+
+## 👨🏽‍💻 Tecnologias:
 
 Algumas das tecnologias e ferramentas que utilizo:
 
