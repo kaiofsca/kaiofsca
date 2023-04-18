@@ -6,7 +6,7 @@
 
 <p>
 <em>
-Tenho 19 anos, sou de Rio de Janeiro mas moro em Brasília e atualmente estou fazendo estágio no IPEDF (Instituto de Pesquisa e Estatística do Distrito Federal) como Desenvolvedor Full-stack.
+Tenho 19 anos, sou de Rio de Janeiro mas moro em Brasília e atualmente estou fazendo estágio no IPEDF (Instituto de Pesquisa e Estatística do Distrito Federal) como Desenvolvedor.
 </em>
 </p>
 
