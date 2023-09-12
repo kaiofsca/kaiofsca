@@ -6,7 +6,7 @@
 
 <p>
 <em>
-Tenho 19 anos, sou de Rio de Janeiro mas moro em Brasília e atualmente estou fazendo estágio na Coopersystem como Desenvolvedor Front-end.
+Tenho 20 anos, sou de Rio de Janeiro mas moro em Brasília e atualmente estou fazendo estágio na Coopersystem como Desenvolvedor Front-end.
 </em>
 </p>
 
